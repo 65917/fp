@@ -1,4 +1,3 @@
-
 # RetargetVid & SmartVidCrop
 
 **Languages / 语言：** [English](#introduction) | [简体中文](#简体中文)
